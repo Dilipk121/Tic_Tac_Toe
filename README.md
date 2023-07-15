@@ -6,6 +6,9 @@ An unbeatable game of Tic Tac Toe. This tic-tac-toe game was developed using And
 - Two Player.
 - Restart Button.
 - Auto Start.
+## can it be like multi touch
+- three players
+-new button improved.
 
 More feature coming soon! This Game is Development Process!
 
